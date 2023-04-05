@@ -108,15 +108,3 @@ for generation in range(num_generations):
         offspring.append(child)
     population = parents + offspring
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
